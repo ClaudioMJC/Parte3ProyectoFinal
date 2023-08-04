@@ -1,0 +1,9 @@
+Esta carpeta que se subió con la parte 3 y final del proyecto, no tiene adentro
+ otra carpeta muy importante llamada "packages, la cual contiene carpetas de: bootstrap 5.3.0
+Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1 y System.Data.SqlClient.4.8.5
+Esto lo tuve que hacer porque a la hora de subir o intentar subir la tercera parte del proyecto a
+GitHub el programa no me lo permitía, lo que se me indicaba era que el archivo era demasiado pesado
+y que debía ser de menor tamaño, para poder conservar una versión en gitHub del proyecto eliminé esa 
+carpeta "packages" y subir el resto, por lo cual lo que subí al intentar ejecutarse no funcione bien al
+faltarle esos paquetes.La versión completa del trabajo está en la plataforma TEAMS, ya que en esta no me dió
+limitaciones. 
